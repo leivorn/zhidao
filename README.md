@@ -6,7 +6,7 @@
 * git clone
 
 ```bash
-git clone git@github.com:xsxs89757/zhidao.git
+git clone git@github.com:leivorn/zhidao.git
 ```
 
 ##### 安装依赖:
